@@ -8,12 +8,11 @@
     font-size: 36px;
 }
 
-#cool {
+.cool {
     font-size: 24px;
 }
 
 #another {
     background-color: #80ff80;
-    font-size: 24px;
     font-weight: bold;
 }
